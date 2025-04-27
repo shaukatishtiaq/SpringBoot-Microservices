@@ -1,4 +1,4 @@
-# 🚀 Microservices Demo Project
+# 🚀 Microservices Project using Spring Ecosystem.
 
 This project demonstrates a basic **microservices architecture** using Spring Boot and Spring Cloud. It features three core services—**Company**, **Job**, and **Review**—with supporting tools such as **Eureka**, **API Gateway**, **Spring Cloud Config Server**, **Resilience4j**, **Actuator**, and **Zipkin** for service discovery, routing, fault tolerance, health monitoring, and distributed tracing.
 
